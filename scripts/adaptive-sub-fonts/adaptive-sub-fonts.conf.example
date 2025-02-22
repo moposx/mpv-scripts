@@ -1,0 +1,11 @@
+# Font to use when the subtitle is in Latin, Greek or Cyrillic script
+lgc=FONT NAME
+
+# Font to use when the subtitle is in Simplified Chinese
+simplified_han=FONT NAME
+
+# Font to use when the subtitle is in Traditional Chinese
+traditional_han=FONT NAME
+
+# Font to use when the subtitle is in Japanese
+japanese=FONT NAME
